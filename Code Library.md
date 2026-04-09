@@ -1,3 +1,4 @@
+<pre><code>
 
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
@@ -67,3 +68,4 @@ void loop() {
     }
   }
 }
+</code></pre>

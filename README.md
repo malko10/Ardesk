@@ -1,2 +1,1 @@
-# Ardesk
-Water Alarm code
+# 다 나가라 여기는 나의 영역이다. 료이키 텐카이.
